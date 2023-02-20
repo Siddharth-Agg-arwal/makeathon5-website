@@ -19,6 +19,7 @@
 
  .sponsors{
     padding-top: 3%;
+    padding-bottom: 3%;
     /* background-image: url('https://wallpapercave.com/wp/wp7051632.jpg'); */
     /* background-image: url('https://wallpapercave.com/wp/wp6252300.jpg');
     background-image: url('https://wallpapercave.com/wp/wp6656168.jpg'); */
@@ -39,7 +40,7 @@
     border-radius: 16px;
     -webkit-backdrop-filter: blur(8px);
     padding: 3%;
-    margin : 5%;
+    margin : 5% 5% 0 5%;
 } 
 
 .grid_justify {
